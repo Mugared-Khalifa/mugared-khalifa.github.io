@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a753625.css",
+    "main.js": "/static/js/main.e0236f84.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Formal_Pic.JPG": "/static/media/Formal_Pic.bd343b968570638e8e39.JPG",
+    "static/media/Latte.JPG": "/static/media/Latte.411c91d131df1cfbd3b3.JPG",
+    "static/media/Mugared_Khalifa_Resume.pdf": "/static/media/Mugared_Khalifa_Resume.713da789efda34263426.pdf",
+    "static/media/pre.svg": "/static/media/pre.d1739fe72684da889fce.svg",
+    "index.html": "/index.html",
+    "main.6a753625.css.map": "/static/css/main.6a753625.css.map",
+    "main.e0236f84.js.map": "/static/js/main.e0236f84.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a753625.css",
+    "static/js/main.e0236f84.js"
+  ]
+}
