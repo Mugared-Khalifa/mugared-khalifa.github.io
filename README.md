@@ -1,3 +1,7 @@
+Repository to host my website.
+
+Credits & thanks to @Soumyajit4419 for their sharing their website's code, which I draw inspiration from in my website.
+-------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
