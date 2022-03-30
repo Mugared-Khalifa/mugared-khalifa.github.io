@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import latte from '../../Assets/Latte.JPG';
 import { HiArrowRight } from "react-icons/hi";
 
 function AboutCard() {

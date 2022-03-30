@@ -1,6 +1,5 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
-import Emoji from "react-emoji-render";
 
 
 function Type() {
