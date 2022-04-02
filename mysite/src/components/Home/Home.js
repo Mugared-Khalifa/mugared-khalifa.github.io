@@ -18,7 +18,7 @@ function Home() {
             </Row>
 
         <Row md={7} className="home-header-image" >
-          <div style={{ textAlign: "center", justifyContent:"center", alignItems:"center" }}>
+          <div style={{ textAlign: "center", justifyContent:"center", alignItems:"center", paddingLeft:"45px" }}>
             <img
                     src={homePicture}
                     alt="home pic"
