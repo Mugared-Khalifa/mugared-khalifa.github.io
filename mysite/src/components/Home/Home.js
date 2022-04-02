@@ -17,13 +17,13 @@ function Home() {
               </h1>
             </Row>
 
-        <Row className="home-header-image" >
-          <div style={{ padding: 50, textAlign: "center", justifyContent:"center", alignItems:"center" }}>
+        <Row md={7} className="home-header-image" >
+          <div style={{ textAlign: "center", justifyContent:"center", alignItems:"center" }}>
             <img
                     src={homePicture}
                     alt="home pic"
                     className="my-image"
-                    style={{ maxHeight: "650px",borderRadius: 100/ 2}}
+                    style={{ maxHeight: "250px",borderRadius: 100/ 2}}
             />
           </div>
         </Row>
