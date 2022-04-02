@@ -209,6 +209,9 @@ button:focus {
 
 .home-header-image {
   padding-top: 30px !important;
+}
+
+.my-image{
   justify-content:center; /* horizontally center */
   align-items:center;    /* vertically center */
 }
@@ -218,11 +221,9 @@ button:focus {
   text-align: center;
 }
 
-
 .home-section {
   position: relative;
   z-index: -1;
-  /* background-image: var(--section-background-color); */
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -239,7 +240,7 @@ button:focus {
 
 .heading {
   font-size: 2.4em !important;
-  padding-left: 10px !important;
+  padding-left: 45px !important;
 }
 
 .home-header {

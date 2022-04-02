@@ -36,7 +36,7 @@ function About() {
                 src={latte}
                 alt="home pic"
                 className="latte-img"
-                style={{ maxHeight: "350px",borderRadius: 10/ 2, alignSelf: 'right' }}
+                style={{ maxHeight: "350px",borderRadius: 10/ 2}}
               />
           </Col>
         </Row>
