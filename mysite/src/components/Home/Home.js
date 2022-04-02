@@ -10,6 +10,13 @@ function Home() {
       <Container fluid className="home-section" id="home">
         <Container className="home-content">
 
+          <Row>
+            <Row md={7} className="home-header-greeting">
+              <h1 style={{ paddingBottom: 15 }} className="heading">
+                Hi There!{" "}
+              </h1>
+            </Row>
+
         <Row md={5} className="home-header-image" style={{ paddingBottom: 20, alignSelf: 'center'}}>
               <img
                 src={homeLogo}
@@ -19,12 +26,7 @@ function Home() {
               />
             </Row>
 
-          <Row>
-            <Row md={7} className="home-header-greeting">
-              <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
-              </h1>
-            </Row>
+          
 
             
 

@@ -201,15 +201,16 @@ button:focus {
 }
 
 .home-header-greeting {
-  padding-top: 80px !important;
+  padding-top: 5px !important;
   text-align: center;
+  align-self: center;
   color: #C4FFF9
 }
 
 .home-header-image {
-  padding-top: 80px !important;
+  padding-top: 30px !important;
   justify-content:center; /* horizontally center */
-   align-items:center;    /* vertically center */
+  align-items:center;    /* vertically center */
 }
 
 .home-header-name {
@@ -238,7 +239,7 @@ button:focus {
 
 .heading {
   font-size: 2.4em !important;
-  padding-left: 50px !important;
+  padding-left: 10px !important;
 }
 
 .home-header {
@@ -289,7 +290,7 @@ button:focus {
 .home-about-section {
   position: relative;
   padding-bottom: 70px !important;
-  padding-top: 70px !important;
+  padding-top: 30px !important;
   background-color: #07BEB8 ;
   color: #C4FFF9 !important;
   text-align: center;
